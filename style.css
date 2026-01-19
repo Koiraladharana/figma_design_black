@@ -3,7 +3,6 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
-    border: none;
 }
 .text-sign_up{
     height: 38px;
@@ -45,4 +44,147 @@ font-size: 14px;
     width: 62px;
     height:24px ;
 }
+#main-1{
+    width: 1351px;
+    height: 755px;
+    margin-top: 20px;
+}
+.main1-sec1{
+    width: 1351px;
+    height: 663px;
+    padding-left: 75px;
+   display: flex;
+   gap: 30px;
+   justify-content: space-between;
+   background-color: #F2F0F1;
+}
+.main1-sec1-text1234{
+ width: 585px;
+ height: 663px;
+}
+.main1-sec1-text1234-txt1{
+width: 577px;
+height: 179px;
+line-height: 64px;
+font-size: 30px;
+font-weight: bold;
+margin-top: 70px;
+}
+.main1-sec1-text1234-txt2{
+width: 545px;
+height: 33px;
+line-height: 22px;
+font-size: 16px;
+margin-top: 20px;
+color: #636161;
+}
+.main1-sec1-text1234-btn1{
+    background-color: #000000; 
+    color: white;
+    width: 210px; 
+    height: 52px;
+    margin-top: 35px;
+    border-radius: 62px;
+}
+.main1-sec1-image{
+    height: 580px;
+    width: 100%px; 
+    margin-top: 80px;
 
+}
+.main1-sec1-text1234-num_txt{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+.main1-sec1text1234-num_txt1{
+    width: 141px;
+    height: 74px;
+}
+.main1-sec1text1234-num_txt1-num{
+     width: 107px;
+     height: 54px;
+     color: #000000;
+     font-weight: bold;
+     font-size: 40px;
+}
+.main1-sec1text1234-num_txt1-txt{
+    width: 141px;
+    height: 22px;
+    color: #636161;
+    line-height: 22px;
+    font-size: 16px;
+}
+.main1-sec1text1234-num_txt2{
+    height: 156p;
+    height: 74px;
+}
+.main1-sec1text1234-num_txt2-num{
+     width: 146px;
+     height: 54px;
+     color: #000000;
+     font-weight: bold;
+     font-size: 40px;
+}
+.main1-sec1text1234-num_txt2-txt{
+    width: 156px;
+    height: 22px;
+    color: #636161;
+    line-height: 22px;
+    font-size: 16px;
+}
+.main1-sec1text1234-num_txt3{
+    height: 74px;
+    width: 171px;
+}
+.main1-sec1text1234-num_txt3-num{
+     width: 171px;
+     height: 54px;
+     color: #000000;
+     font-weight: bold;
+     font-size: 40px;
+}
+.main1-sec1text1234-num_txt3-txt{
+    width: 126px;
+    height: 22px;
+    color: #636161;
+    line-height: 22px;
+    font-size: 16px;
+}
+.main1-sec2{
+   background-color: #000000;
+   height: 122px;
+   justify-content: space-around;
+   align-items: center;
+   display: flex;
+}
+.main2-sec2-text1{
+width: 166.48px;
+height: 33.16px;
+color: #FFFFFF;
+font-size: 30px;
+}
+.main2-sec2-text2{
+width: 91px;
+height: 38px;
+color: #FFFFFF;
+font-size: 30px;
+}
+.main2-sec2-text3{
+width: 156px;
+height: 32.29px;
+color: #FFFFFF;
+font-size: 30px;
+}
+.main2-sec2-text4{
+width: 194px;
+height: 31.2px;
+color: #FFFFFF;
+font-size: 30px;
+}
+.main2-sec2-text5{
+width: 206.78px;
+height: 33.35px;
+color: #FFFFFF;
+font-size: 30px;
+}
